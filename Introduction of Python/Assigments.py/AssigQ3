@@ -1,0 +1,38 @@
+3). What is python?
+
+Answer :-
+          Python is a high-level, interpreted programming language known for its simplicity and readability.
+          Created by Guido van Rossum and first released in 1991, Python has become one of the most popular programming languages in the world.
+          Here are some key features and aspects of Python:
+
+
+Key Features of Python:
+
+1. Simple and Readable Syntax:
+
+* Python’s syntax is designed to be easy to read and write, making it an excellent choice for beginners and experienced developers alike.
+
+2. Interpreted Language:
+
+* Python code is executed line-by-line by an interpreter, which makes the debugging process easier and allows for interactive coding sessions.
+
+3. Dynamically Typed:
+
+* Python does not require explicit declaration of variable types. The type is determined at runtime, which adds flexibility but can sometimes lead to runtime errors if not handled carefully.
+
+4. Versatile and General-Purpose:
+
+* Python can be used for a wide range of applications, from web development and automation to data analysis and artificial intelligence.
+
+5. Extensive Standard Library:
+
+* Python’s standard library includes modules and packages that provide a wide range of functionalities, reducing the need to write code from scratch.
+
+6. Large and Active Community:
+
+* Python has a vast and active community, which contributes to a rich ecosystem of third-party libraries, frameworks, and tools.
+  Community support also means extensive documentation and numerous learning resources.
+
+7. Cross-Platform:
+
+* Python is cross-platform, meaning it can run on various operating systems, including Windows, macOS, and Linux, without requiring changes to the code.
